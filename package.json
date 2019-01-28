@@ -1,0 +1,19 @@
+{
+  "name": "sheep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.120",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "parcel": "^1.11.0",
+    "typescript": "^3.2.4"
+  }
+}
